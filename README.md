@@ -229,7 +229,7 @@ Method 2: Single File Download
 Bash
 
 # Download just the script
-curl -O https://raw.githubusercontent.com/yourusername/pytutor-pro/main/pytutor_pro.py
+curl -O https://raw.githubusercontent.com/yourusername/pytutor/pytutor.py
 
 # Install optional colors
 pip install colorama
@@ -252,7 +252,7 @@ pytutor_env\Scripts\activate
 pip install colorama
 
 # Run the tutor
-python pytutor_pro.py
+python pytutor.py
 Verify Installation
 Bash
 
