@@ -217,7 +217,7 @@ and uses only letters and underscores.
 
 ```bash
 # Step 1: Clone or download the script
-git clone https://github.com/yourusername/pytutor-pro.git
+git clone https://github.com/Kryzen-Here/pytutor-pro.git
 cd pytutor-pro
 
 # Step 2: (Optional) Install colorama for colored output
