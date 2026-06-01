@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🐍 PyTutor Pro — Interactive Python Learning System
 
 <p align="center">
